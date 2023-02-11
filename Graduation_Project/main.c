@@ -21,7 +21,7 @@ int main(void)
 	
 	Timer0_Init();
 	Timer0_Start();
-	Timer0_SetDelay(5);
+	Timer0_SetDelay(1);
 		
 	while (1)
 	
